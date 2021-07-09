@@ -1,0 +1,5 @@
+rootProject.name='AppDemo'
+include ':app'
+include ':common'
+include ':user'
+include ':home'
